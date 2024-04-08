@@ -9,7 +9,7 @@
 </p>
 
 ## ☆ Hospedagem
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
 https://https-shini.github.io/portfolio/#home
 
 ## ☆ Tecnologias
