@@ -22,9 +22,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * Nisl nunc mi ipsum faucibus vitae aliquet.
 
 ## ☆ Projeto
-* [Como iniciar o projeto?](/CONTRIBUTING.md)
-* [Como o projeto está estruturado?](/STRUCTURE.md)
-* [Como iniciar o projeto?](/CONTRIBUTING.md)
+➜ [Como iniciar o projeto?](/CONTRIBUTING.md) <br>
+➜ [Como o projeto está estruturado?](/STRUCTURE.md) <br>
+➜ [Como iniciar o projeto?](/CONTRIBUTING.md) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Nibh sit amet commodo nulla facilisi nullam vehicula. Sit amet luctus venenatis lectus magna. Egestas diam in arcu cursus euismod quis viverra. Porttitor lacus luctus accumsan tortor posuere ac.
 
@@ -32,6 +32,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ![Preview](./img/002.png)
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 ## ☆ Licença
 Esse projeto está sob a [licença MIT](/LICENSE).
