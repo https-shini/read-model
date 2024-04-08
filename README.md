@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * Nisl nunc mi ipsum faucibus vitae aliquet.
 
 ## ☆ Projeto
-➜ [Como iniciar o projeto?](/CONTRIBUTING.md) <br>
+➜ [Como contribuir?](/CONTRIBUTING.md) <br>
 ➜ [Como o projeto está estruturado?](/STRUCTURE.md) <br>
 ➜ [Documentação aprodofundada](/MODEL.md) 
 
