@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## ☆ Layout
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![Preview](./img/001.png)
+![Preview](./img/hero.png)
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
