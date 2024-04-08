@@ -14,6 +14,9 @@
 
 > Depois que seu pull request for mergeado, você pode apagar sua branch. 
 
+> [!NOTE]
+> Não se esqueça de favoritar o projeto!
+
 ## en-US 🇺🇸
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -27,3 +30,6 @@
 **After your pull request is merged** 
 
 > After your pull request is merged, you can safely delete your branch.
+
+> [!NOTE]
+> Don't forget to favorite the project!.
