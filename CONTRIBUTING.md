@@ -1,7 +1,5 @@
 # Contributing/Contribuindo
 
-- [Como o projeto está estruturado?](./STRUCTURE.md)
-
 ## PT-BR 🇧🇷
 1. Crie um fork!
 2. Crie sua feature branch: `git checkout -b my-new-feature` | 
