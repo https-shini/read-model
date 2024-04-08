@@ -29,7 +29,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Nibh sit amet commodo nulla facilisi nullam vehicula. Sit amet luctus venenatis lectus magna. Egestas diam in arcu cursus euismod quis viverra. Porttitor lacus luctus accumsan tortor posuere ac.
 
 ## ☆ Layout
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 ![Preview](./img/002.png)
 
 ## ☆ Licença
