@@ -7,6 +7,9 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
+<br>
+
+![Preview](./img/001.png)
 
 ## ☆ Hospedagem
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
@@ -19,13 +22,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * Nisl nunc mi ipsum faucibus vitae aliquet.
 
 ## ☆ Projeto
+* [Como iniciar o projeto?](/CONTRIBUTING.md)
 * [Como o projeto está estruturado?](/STRUCTURE.md)
 * [Como iniciar o projeto?](/CONTRIBUTING.md)
-* 
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Nibh sit amet commodo nulla facilisi nullam vehicula. Sit amet luctus venenatis lectus magna. Egestas diam in arcu cursus euismod quis viverra. Porttitor lacus luctus accumsan tortor posuere ac.
 
 ## ☆ Layout
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
+![Preview](./img/002.png)
 
 ## ☆ Licença
 Esse projeto está sob a [licença MIT](/LICENSE).
